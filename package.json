@@ -1,0 +1,12 @@
+{
+  "name": "the-shield-tools",
+  "version": "0.0.3",
+  "description": "JavaScript Tool Functions",
+  "keywords": ["utils", "format", "regular", "phone", "Date"], 
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "the_shield",
+  "license": "ISC"
+}
